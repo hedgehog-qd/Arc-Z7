@@ -1,0 +1,2 @@
+# Arc-Z7
+ZYNQ 7020 SoM
