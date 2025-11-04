@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ZYNQ7020_Module.PrjPcb]
+   Generated File[PCB1test.TXT]
+   Generated File[PCB1test.LDP]
+   Generated File[PCB1test.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 19:52:35 On 2025/8/11
